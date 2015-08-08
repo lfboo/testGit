@@ -3,3 +3,7 @@ from testgit branch-develop
 from testgit branch-issue2
 from testgit branch-issue3
 from testgit branch-isset2-2
+
+==========================================================
+from branch issue3
+==========================================================
