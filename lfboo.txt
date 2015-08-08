@@ -2,3 +2,8 @@ from testgit2 version-1
 from testgit branch-develop
 from testgit branch-issue2
 from testgit branch-isset2-2
+
+
+=======================================================================
+from branch issue2
+=======================================================================
